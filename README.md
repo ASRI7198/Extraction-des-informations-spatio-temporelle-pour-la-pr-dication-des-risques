@@ -1,6 +1,5 @@
   
 ## About
-<img src="media/result1.gif" align="right" width="430" height="280"> 
 
 The project combines CNNs and LSTMs to predict whether a vehicle is in a collision course using a series of images **moments before it happens.**
 
@@ -45,6 +44,6 @@ The core of the project is to extract the Spatio-Temporal information and use it
 
 **Hit me up!**   
 
-[LinkedIn](www.linkedin.com/in/asririda) , <a href = "mailto: asri.travaille@gmail.com">asri.travaille@gmail.com</a>
+[LinkedIn](www.linkedin.com/in/asririda/) , <a href = "mailto: asri.travaille@gmail.com">asri.travaille@gmail.com</a>
   
   
