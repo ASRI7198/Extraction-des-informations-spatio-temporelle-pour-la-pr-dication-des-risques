@@ -35,7 +35,7 @@ The project combines CNNs and LSTMs to predict whether a vehicle is in a collisi
 
 
 ## Results
-<img align="right" src="output_video1.avi" width="450" height="290">  
+<img align="right" src="videos/output_GIF" width="450" height="290">  
 
 Ultimately, the system should be supplied with the video feed and we will be getting a safety level for the given series of images. So for every moment in time, a safety flag is obtained. This can not only be employed in a self-driving car’s decision making system but also a manual car’s emergency protocol system to prevent extreme events. 
 
