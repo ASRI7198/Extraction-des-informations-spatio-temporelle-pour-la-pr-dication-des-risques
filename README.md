@@ -23,7 +23,7 @@ The project combines CNNs and LSTMs to predict whether a vehicle is in a collisi
 
 
 ## Model Architecture
-<img align="right" src="images/Architecture(2).png" width="300" height="420"> 
+<img align="right" src="images/Architecture (2).png" width="300" height="420"> 
 
 * The nature of problem requires a CNN+LSTM architecture. After different experiments with various architectures and hyper parameters, the final model consists of a very diluted GoogleNet like network with two Inception modules for the CNN part and contains two LSTM layers with 32 hidden units each. 
 
